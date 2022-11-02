@@ -29,6 +29,7 @@
 body {
     margin: 0;
     padding: none;
+    font-size: 12px;
 }
 
 #app, body, :root {
